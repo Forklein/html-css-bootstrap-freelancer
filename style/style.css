@@ -1,7 +1,3 @@
-*{
-    color: #fff;
-}
-
 .ms-border{
     border: 1px dashed black;
 }
@@ -35,3 +31,17 @@ header{
     height: 450px;
     background-color: #1abc9c;
 }
+
+.col-12{
+    height: 300px;
+}
+
+.about{
+    height: 450px;
+    background-color: #1abc9c;
+}
+
+.contact{
+    height: 450px;
+}
+
