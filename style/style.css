@@ -36,10 +36,6 @@ header{
     background-color: #1abc9c;
 }
 
-.col-12{
-    height: 300px;
-}
-
 .about{
     height: 450px;
     background-color: #1abc9c;
@@ -48,4 +44,3 @@ header{
 .contact{
     height: 450px;
 }
-
