@@ -2,26 +2,6 @@
     border: 1px dashed black;
 }
 
-.ms-height{
-    height: 100%;
-}
-
-.ms-align-items{
-    align-items: center;
-}
-
-.ms-text-center{
-    text-align: center;
-}
-
-.ms-text-left{
-    text-align: left;
-}
-
-.ms-text-right{
-    text-align: right;
-}
-
 .bg-footer-1{
     background-color: #3a546d;
 }
